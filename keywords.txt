@@ -1,0 +1,6 @@
+mysql
+redis
+username
+password
+etcd
+kubernetes.svc
