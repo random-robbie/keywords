@@ -1,4 +1,15 @@
 ACCESSKEYID
+ACCESSKEY
+AWS.config.accessKeyId
+AWS.config.secretAccessKey
+route53_access_key_id
+jdbc_host
+jdbc_user
+amazon_bucket_name
+ftp_host
+ftp_username
+jdbc_databaseurl
+SECRETKEY
 ACCESS_TOKEN
 ADMIN_EMAIL
 ACCESSKEY
